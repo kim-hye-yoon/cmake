@@ -63,8 +63,8 @@ UpdateOptions:
 UpdateType: git
 
 # Compiler info
-Compiler: C:/MinGW/bin/g++.exe
-CompilerVersion: 6.3.0
+Compiler: C:/msys64/mingw64/bin/g++.exe
+CompilerVersion: 12.2.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 

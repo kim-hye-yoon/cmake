@@ -175,7 +175,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/MinGW/bin/g++.exe"
+			"value" : "C:/msys64/mingw64/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -319,7 +319,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/MinGW/bin/gcc.exe"
+			"value" : "C:/msys64/mingw64/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -907,7 +907,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "hello"
+			"value" : "cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1595,7 +1595,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/opencv/build][v4.6.0()]"
+			"value" : "[C:/opencv/build][v4.7.0()]"
 		},
 		{
 			"name" : "GITCOMMAND",
@@ -1687,7 +1687,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/opencv/build/x64/vc15/lib"
+			"value" : "C:/opencv/build/x64/vc16/lib"
 		},
 		{
 			"name" : "P4COMMAND",
@@ -1748,6 +1748,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
+		},
+		{
+			"name" : "cmake_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/cuong/Downloads/cmake/build"
+		},
+		{
+			"name" : "cmake_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "cmake_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/cuong/Downloads/cmake"
 		},
 		{
 			"name" : "hello_BINARY_DIR",

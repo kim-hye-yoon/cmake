@@ -55,7 +55,7 @@
 					[
 						0
 					],
-					"name" : "hello",
+					"name" : "cmake",
 					"targetIndexes" : 
 					[
 						0,
@@ -291,7 +291,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "hello::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-hello-Debug-ef52a4375a2f2187ca5f.json",
+					"jsonFile" : "target-hello-Debug-02e9d45b4b29882e8b0f.json",
 					"name" : "hello",
 					"projectIndex" : 0
 				}

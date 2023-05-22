@@ -167,11 +167,11 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake"
+			"path" : "C:/opencv/build/x64/vc16/lib/OpenCVConfig-version.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/opencv/build/x64/vc15/lib/OpenCVConfig.cmake"
+			"path" : "C:/opencv/build/x64/vc16/lib/OpenCVConfig.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -185,15 +185,15 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/opencv/build/x64/vc15/lib/OpenCVModules.cmake"
+			"path" : "C:/opencv/build/x64/vc16/lib/OpenCVModules.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake"
+			"path" : "C:/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake"
+			"path" : "C:/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake"
 		},
 		{
 			"isCMake" : true,

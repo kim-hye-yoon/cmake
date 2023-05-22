@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/cuong/Downloads/cmake/build",
-  "command": "C:\\MinGW\\bin\\g++.exe -isystem C:/opencv/build/include -g -o CMakeFiles\\hello.dir\\main.cpp.obj -c C:\\Users\\cuong\\Downloads\\cmake\\main.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/opencv/build/include -g -o CMakeFiles\\hello.dir\\main.cpp.obj -c C:\\Users\\cuong\\Downloads\\cmake\\main.cpp",
   "file": "C:\\Users\\cuong\\Downloads\\cmake\\main.cpp",
   "output": "CMakeFiles\\hello.dir\\main.cpp.obj"
 }
